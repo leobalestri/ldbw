@@ -1,0 +1,161 @@
+B230258
+Filed 5/18/12
+The People v. Little Pharaoh Perry
+Defendant: Little Pharaoh Perry
+LACSC court number BA366191
+Judge: Alex Ricciardulli
+Attorney for defendant: Lea Rappaport Geller
+Attorney appointed?: True
+Attorney general: Kamala Harris
+Charge(s): [
+     Possession for sale of cocaine base (Health and Safety Code 11351.5),
+     Transportation of a controlled substance (HSC 11352, subd. a) ]
+Reason(s) for appeal: [
+     trial court admitted improper evidence,
+     request for in camera review of Pitchess motion ]
+Defense: Defendant did not testify. Defense asserted no fingerprints were found on bag in planter.
+Prior conviction(s): [
+     One prior serious or violent felony PC 667,
+     several else
+]
+Priors struck: 0
+
+Sentence(s): Low term (3 years) for small amount of cocaine, plus 8 more years for prior convictions
+Notes: Pitchess motion for complaint of fabrication of evidence (claimed police report completely untrue)
+Notes: Complaint of improper admission of evidence by prosecution (admitted evidence
+for which he had not actually been charged), complaint not sustained
+
+Disposition: Affirmed in full.
+
+Appeals court case number: B231195
+Filed 4/24/12
+The People v. Peter Thomas Rodriguez
+Defendant: Peter Thomas Rodriguez
+LACSC court number: MA050779
+Judge: Kathleen Blanchard
+Attorney for defendant: Gary V. Crooks
+Attorney appointed?: Yes
+Attorney general: None
+Charge(s): [
+      ]
+Reason(s) for appeal: [
+      ]
+Defense:
+Prior conviction(s): [
+
+]
+Priors struck: 0
+
+Sentence(s):
+Notes: requested new counsel appointed in prior case, motion denied; request for
+certificate of probable cause denied; counsel raised no issues on appeal,
+
+court dismissed bc he didn't have cert of prob cause which he had been denied
+Disposition: Appeal dismissed
+
+
+Appeals court case number: B226851
+Filed
+The People v.
+Defendant: Arsellers C. Scott
+LACSC court number: MA044131
+Judge: Hayden Zacky
+Attorney for defendant:
+Attorney appointed?: Y
+Attorney general: Kamala
+Charge(s): [
+1st degree murder
+      ]
+Reason(s) for appeal: [
+      ]
+Defense:
+Prior conviction(s): [
+
+]
+Priors struck: 0
+
+Sentence(s):
+Notes: BULLSHIT, timely objection, ineffective assistance of counsel
+Disposition:
+
+NOTE: "Claims of ineffective counsel are more suited to petitions for habeas corpus
+than direct appeals", citing People v. Mendoza Tello (1997)
+
+Appeals court case number: 197574
+Filed
+The People v.
+Defendant:
+LACSC court number:
+Judge:
+Attorney for defendant:
+Attorney appointed?:
+Attorney general:
+Charge(s): [
+      ]
+Reason(s) for appeal: [
+      ]
+Defense:
+Prior conviction(s): [
+
+]
+Priors struck: 0
+
+Sentence(s):
+Notes: Footnote 7: "After filing his opening brief, defendant requested judicial notice be taken of (1) the transcript of the preliminary hearing held in Orange County in 2002; (2) the docket and unpublished decision in Goodwin v. Superior Court, supra, G031285; (3) the docket in People v. Dimascio (case No. G005903) (a case in which Mickey Thompson testified (see pt. 9, post)); and (4) the grand jury testimony of Detective Lillienfeld. We take judicial notice of item (2), the docket and unpublished opinion in Goodwin v. Superior Court, as the trial court expressly referred to it in denying defendant’s request for dismissal based on the delay in prosecuting defendant. We otherwise deny defendant’s request. As to item (3), there is no dispute over the fact that Mickey Thompson testified in the case, so judicial notice accomplishes nothing. As for the grand jury and preliminary hearing transcripts, defendant contends they “are relevant to the issues of prosecutorial and police misconduct, . . . presentation of false evidence manufactured by Detective Lillienfeld, and violation of [defendant’s] Sixth Amendment right to counsel and attorney-client privilege by both the [Orange County District Attorney] and the [Los Angeles District Attorney],” and “contain admissions by Detective Lillienfeld, testimony contradicting his trial testimony and testimony contradicting the positions taken by the [Los Angeles District Attorney] at trial.” (See pts. 1 & 16, post.) If indeed they are relevant, they should have been presented to the trial court in the first instance, and they were not. Defendant’s contention that the trial court “examined and considered” the grand jury and preliminary hearing transcripts “and made rulings, thus taking judicial notice of them” is not supported by the record. There is nothing in the record to show the trial court “examined” these transcripts; there are merely occasional arguments by counsel or testimony referring to the preliminary hearing, or to testimony given at that hearing. “Reviewing courts generally do not take judicial notice of evidence not presented to the trial court. Rather, normally ‘when reviewing the correctness of a trial court’s judgment, an appellate court will consider only matters which were part of the record at the time the judgment was entered.’ [Citation.]” (Vons Companies, Inc. v. Seabest Foods, Inc. (1996) 14 Cal.4th 434, 444, fn. 3; People v. Preslie (1977) 70 Cal.App.3d 486, 492 [“as a general rule the court should not take such notice if, upon examination of the entire record, it appears that the matter has not been presented to and considered by the trial court in the first instance”].) That is the case here."
+
+"Defendant is mistaken on all counts.
+First, we note the standard of review. “The determination of whether the government engaged in outrageous conduct in violation of defendant’s due process rights is a mixed question.” (People v. Uribe (2011) 199 Cal.App.4th 836, 857 (Uribe).) A deferential standard of review applies to the factual determination of whether and to what extent misconduct occurred. (Id. at pp. 857-858.) Whether the governmental conduct “constitutes outrageous conduct in the constitutional sense of violating defendant’s due process rights” is primarily a legal question. (Id. at p. 858 [“the trial court’s finding that the governmental conduct was outrageous in violation of defendant’s due process rights thereby warranting dismissal is subject to independent review”].)
+Second, where a defendant seeks dismissal for outrageous governmental acts, “a showing of prejudice to defendant’s right to a fair trial [is] required and . . . the absence of such a showing preclude[s] dismissal as a sanction for prosecutorial
+38
+misconduct.” (Uribe, supra, 199 Cal.App.4th at p. 861; id. at p. 865 [prosecutor’s misconduct “was certainly conscience-shocking in the sense that it involved false testimony by a prosecutor in a formal criminal proceeding,” but “it did not involve ‘brutal and . . . offensive’ conduct employed to obtain a conviction”; the defendant “was not entitled to dismissal for outrageous governmental conduct shocking the conscience in violation of substantive due process”]; see also United States v. Morrison (1981) 449 U.S. 361, 367, 362, 365-366 (Morrison) [the high court, while “not condon[ing] the egregious behavior of the Government agents” – who met with the defendant without the permission or knowledge of her counsel, disparaged her counsel and told her she would face a stiff jail term if she did not cooperate – concluded that dismissal of the indictment was “inappropriate where the violation . . . has had no adverse impact upon the criminal proceedings”; “absent demonstrable prejudice, or substantial threat thereof, dismissal of the indictment is plainly inappropriate, even though the violation may have been deliberate”].)"
+
+"Defendant cites Brady and its progeny for the principle that the prosecutor is responsible for disclosing evidence favorable to the defense, and that duty includes the “duty to learn of any favorable evidence known to the others acting on the government’s behalf in the case.” (Kyles v. Whitley (1995) 514 U.S. 419, 437; In re Brown (1998) 17 Cal.4th 873, 879 (Brown) [courts have focused on the “ ‘ “ ‘prosecution team,’ ” ’ ” and “any favorable evidence known to the others acting on the government’s behalf is imputed to the prosecution”].)
+But the legal authorities on outrageous government misconduct do not employ the “prosecution team” principle, nor is there reason to do so. A Brady violation can be remedied only by providing the defense with the exculpatory material. Without the “prosecution team” principle, the prosecutor could “ ‘ “avoid disclosure of evidence by the simple expedient of leaving relevant evidence to repose in the hands of another agency while utilizing his access to it in preparing his case for trial,” [citation].’ [Citations.]” (Brown, supra, 17 Cal.4th at p. 879.)
+That principle has no logical application in the context of an outrageous misconduct claim. Case authority likewise supports the conclusion that a prosecutor is not chargeable with the outrageous misconduct of another agency. (See People v. Shrier (2010) 190 Cal.App.4th 400, 405, 417 (Shrier) [dismissal was too drastic a remedy where law enforcement agents intentionally eavesdropped on attorney-client privileged communications; “[e]xclusion of overheard communications and any derivative evidence
+40
+flowing therefrom” was the appropriate remedy; the prosecutor “was unaware of the eavesdropping plan”]; Boulas v. Superior Court (1986) 188 Cal.App.3d 422, 432 (Boulas) [“There is no suggestion in [Morrison, supra, 449 U.S. 361] that the prosecutor’s office participated in the decision of the police officers to speak with the defendant outside of the presence of her attorney. In contrast, the record before this court contains substantial evidence of such participation on the part of a deputy district attorney.”].)"
+
+"The federal cases do not assist defendant. First, we need not follow federal authorities other than the high court.9 Second, in this case the trial court did not find any 9
+deliberate intrusion or “knowing invasion” by the Los Angeles prosecutor in the attorney-client relationship, instead finding “they did not obtain any new information from their accidental review of the privileged material.” Third, defendant fails to identify in his opening brief any defense “strategy or position” that was revealed in the privileged documents. By contrast, in Levy the court specifically identified the defense strategy learned by the prosecutor."
+
+Footnote 9: "In any event, those authorities are split on the question whether a deliberate attempt by the government to obtain defense strategy information or to otherwise interfere with the attorney-defendant relationship through the use of an undercover agent constitutes a per se violation of the Sixth Amendment. (See United States v. Danielson (9th Cir. 2003) 325 F.3d 1054, 1070-1071, discussing cases; see also United States v. Glover (9th Cir. 1979) 596 F.2d 857, 863-864 & fn. 10 [government agent’s “attempt to interfere with the attorney-client relationship, as reprehensible as it was,” did not amount to a constitutional violation of the right to counsel; “the existence or nonexistence of prejudicial evidence derived from an alleged interference with the attorney-client relationship is relevant in determining if the defendant has been denied the right to counsel”].)"
+
+Fotnote 11: "Defendant also cites a Connecticut opinion, State v. Lenarz (2011) 301 Conn. 417, where the court “conclude[d] generally that prejudice may be presumed when the prosecutor has invaded the attorney-client privilege by reading privileged materials containing trial strategy, regardless of whether the invasion of the attorney-client privilege was intentional,” and the state may rebut that presumption by clear and convincing evidence. (Id. at p. 425.) California cases do not so hold, and in any event, in Lenarz, the court found both that the privileged materials “contained a detailed, explicit road map of the defendant’s trial strategy” (id. at p. 451); “the defendant was prejudiced by the prosecutor’s intrusion into the privileged communications” (id. at p. 442); and the state had the burden to prove that any prejudice could be cured by a less drastic remedy than dismissal (id. at pp. 443-444), which it could not do in that case (id. at p. 445). No similar findings were made, or could have been made, here."
+
+pg 45: Extensive discussion of why defendant has burden of proof regarding conflict of interest in the defense atty, and why existence of conflict of interest is not sufficient, and that defendant must show that the CoI directly caused/will cause unfair trial.
+pg 46: default expectation is that prosecutors will behave properly even in presence of conflict of interest
+pg 47: It's turtles all the way down. Cites a case wherein prosecutor disclosed case files to a filmmaker and acted as consultant on movie about defendant's life and alleged crimes, and trial court did not find this to be a conflict of interest. There are just bad cases citing bad cases citing bad cases.
+
+"As Hollywood tells us, “section 1424 does not exist as a free-form vehicle through which to express judicial condemnation of distasteful, or even improper, prosecutorial actions. [S]ection 1424 offers no relief for actions simply because they appear, or are, improper. [Citations.] The Legislature has closely defined the limits of judicial authority to recuse prosecutors, and we must observe them. . . . A defendant must identify, and a court must find some conflict of interest that renders it unlikely the defendant will receive a fair trial.” (Hollywood, supra, 43 Cal.4th at p. 735, fn. omitted.) The trial court found none here, and we can find no abuse of its discretion in that finding."
+**** Note the difference between 1424 and 1424.5 ******
+
+Section 1424:
+
+
+(a)(1) Notice of a motion to disqualify a district attorney from performing an authorized duty shall be served on the district attorney and the Attorney General at least 10 court days before the motion is heard.  The notice of motion shall contain a statement of the facts setting forth the grounds for the claimed disqualification and the legal authorities relied upon by the moving party and shall be supported by affidavits of witnesses who are competent to testify to the facts set forth in the affidavit.  The district attorney or the Attorney General, or both, may file affidavits in opposition to the motion and may appear at the hearing on the motion and may file with the court hearing the motion a written opinion on the disqualification issue.  The judge shall review the affidavits and determine whether or not an evidentiary hearing is necessary.  The motion may not be granted unless the evidence shows that a conflict of interest exists that would render it unlikely that the defendant would receive a fair trial.  An order recusing the district attorney from any proceeding may be reviewed by extraordinary writ or may be appealed by the district attorney or the Attorney General.  The order recusing the district attorney shall be stayed pending any review authorized by this section.  If the motion is brought at or before the preliminary hearing, it may not be renewed in the trial court on the basis of facts that were raised or could have been raised at the time of the original motion.
+
+(2) An appeal from an order of recusal or from a case involving a charge punishable as a felony shall be made pursuant to Chapter 1 (commencing with Section 1235 ) of Title 9, regardless of the court in which the order is made.  An appeal from an order of recusal in a misdemeanor case shall be made pursuant to Chapter 2 (commencing with Section 1466 ) of Title 11, regardless of the court in which the order is made.
+
+(b)(1) Notice of a motion to disqualify a city attorney or city prosecutor from performing an authorized duty involving a criminal matter shall be served on the city attorney or city prosecutor and the district attorney at least 10 court days before the motion is heard.  The notice of motion shall set forth a statement of the facts relevant to the claimed disqualification and the legal authorities relied on by the moving party.  The district attorney may appear at the hearing on the motion and may file with the court hearing the motion a written opinion on the disqualification issue.  The motion may not be granted unless the evidence shows that a conflict of interest exists that would render it unlikely that the defendant would receive a fair trial.
+
+(2) An order recusing the city attorney or city prosecutor from a proceeding may be appealed by the city attorney or city prosecutor or the district attorney.  The order recusing the city attorney or city prosecutor shall be stayed pending an appeal authorized by this section.  An appeal from an order of disqualification in a misdemeanor case shall be made pursuant to Chapter 2 (commencing with Section 1466 ) of Title 11.
+
+(c) Motions to disqualify the city attorney or city prosecutor and the district attorney shall be separately made.
+
+
+Section 1424.5:
+
+(a)(1) Upon receiving information that a prosecuting attorney may have deliberately and intentionally withheld relevant, material exculpatory evidence or information in violation of law, a court may make a finding, supported by clear and convincing evidence, that a violation occurred.  If the court finds such a violation, the court shall inform the State Bar of California of that violation if the prosecuting attorney acted in bad faith and the impact of the withholding contributed to a guilty verdict, guilty or nolo contendere plea, or, if identified before conclusion of trial, seriously limited the ability of a defendant to present a defense.
+
+(2) A court may hold a hearing to consider whether a violation occurred pursuant to paragraph (1).
+
+(b)(1) If a court finds, pursuant to subdivision (a), that a violation occurred in bad faith, the court may disqualify an individual prosecuting attorney from a case.
+
+(2) Upon a determination by a court to disqualify an individual prosecuting attorney pursuant to paragraph (1), the defendant or his or her counsel may file and serve a notice of a motion pursuant to Section 1424 to disqualify the prosecuting attorney's office if there is sufficient evidence that other employees of the prosecuting attorney's office knowingly and in bad faith participated in or sanctioned the intentional withholding of the relevant, material exculpatory evidence or information and that withholding is part of a pattern and practice of violations.
+
+(c) This section does not limit the authority or discretion of, or any requirement placed upon, the court or other individuals to make reports to the State Bar of California regarding the same conduct, or otherwise limit other available legal authority, requirements, remedies, or actions.
+
+P. 48: Note that the standard previous;y in penal code  was interpreted in People v Superior Court (Greer) (1977) to hold that held that an attorney could be disqualified if the conflict of interest which *might prejudice him accainst the accused and thereby affect, or appear to affect, his ability to impartially perform the discretionary functions of his office" - but code 1424 was inacted in direct response, and required a showing of actually effecting he outcome (possibly later amended by 1424.5?).
+
+NB: Move from "might prejudice and thereby affect or appear to effect" to "likely to cause unfair treatment."
+Disposition:
