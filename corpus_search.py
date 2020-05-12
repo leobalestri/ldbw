@@ -1,12 +1,13 @@
 SEARCH_DICTIONARY = {
     'search_attorney': r'(\. .{3,100}? for defendants?)',
     'search_appointed': r'under appointment',
-    'search_outcome': r'\. judgment .{3,100}?\.',
+    'search_outcome':r'(judgm?en?t?\. .{3,100}?\.)',
     'pitchess_motion': r'pitchess .{0,5}?motion',
     'prejudice':'unduly prejudicial',
     'no_error':'no error',
     'mid_term': r'mid(dle)?[ -]?term',
-    'disposition': r'diposition .{0:100}?\.',
+    'disposition': r'disposition .{0:100}?\.',
+    'full_disposition':r'disposition.{0:100}?not to be published',
     'prior_conviction': r'prior .{3,20}conviction',
     'prior_felony_conviction': r'prior felony convictions?',
     'ineffective_assistance': r'ineffective assistance',
@@ -15,6 +16,9 @@ SEARCH_DICTIONARY = {
     'polygraph': 'polygraph',
     'kamala_harris': r'kamala .{0,10}?harris',
     'constitutional_violation': r'constitutional violation',
+    'three_strikes':r'(?:three|3)(?:\s|-)strikes?'
+    'enhancement':r'(?:firearm|strikes|felony) enhancements?',    'any_enhancement':r'[\w+]{3,20}\senhancement\b\s?[\w+]{3,20}',    'term':r'\b[\w+]*\b(?:\s|-)?term'
+    'resentencing':r're-?sentenc'
     }
 
 MORE_TERMS = {
